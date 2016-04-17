@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView2"
+    style="@style/scroll" >
+
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/lblTitulo"
+                style="@style/tituloTopo"
+                android:text="@string/btn_04" />
+
+
+            <TextView
+                android:id="@+id/lblConteudo1"
+                android:layout_below="@id/lblTitulo"
+                style="@style/definicao"
+                android:text="@string/txt_conteudo_01" />
+
+            <TextView
+                android:id="@+id/lblConteudo2"
+                android:layout_below="@id/lblConteudo1"
+                style="@style/conteudo"
+                android:text="@string/txtFraturas" />
+
+            <TextView
+                android:id="@+id/lblConteudo3"
+                android:layout_below="@id/lblConteudo2"
+                style="@style/definicao"
+                android:text="@string/txt_conteudo_02" />
+
+            <TextView
+                android:id="@+id/lblConteudo4"
+                android:layout_below="@id/lblConteudo3"
+                style="@style/conteudo"
+                android:text="@string/txtFraturas1" />
+
+        </RelativeLayout>
+
+</ScrollView>

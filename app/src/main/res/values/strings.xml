@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">HelpApp</string>
+    <string name="app_Titulo">Seu primeiro socorro!</string>
+    <string name="btn_01">Desmaio</string>
+    <string name="btn_02">Queimadura</string>
+    <string name="btn_03">Convulsão</string>
+    <string name="btn_04">Fraturas</string>
+    <string name="btn_05">Engasgo</string>
+    <string name="btn_06">Infarto</string>
+    <string name="txt_conteudo_01">O que é ? </string>
+    <string name="txt_conteudo_02">Primeiras providências </string>
+    <string name="txt_conteudo_03">CUIDADO!</string>
+
+    <!-- ***************************** Textos da tela de desmaio ****************** -->
+    <string name="txtDesmaio">
+        É a perda temporária de consciência, que pode ser provocada por fatores diversos. O importante é manter a calma e tentar ajudar a vítima. "\n""\n"
+        Podem ser causados por emoções, cansaço, fome, nervosismo, traumatismo, hipoglicemia (baixo nível de açúcar no sangue), queda de pressão, arritmia cardíaca (qualquer desvio da normalidade no ritmo das contrações cardíacas). "\n" "\n"
+        As principais características são: pele pálida, sudorese, pulso e respiração fracos.
+    </string>
+
+    <string name="txtDesmaio1">
+        1 - Deite a vítima e eleve as pernas;"\n"2 - Afrouxe as roupas da pessoa;"\n"3 - Verifique o pulso do paciente. Caso não consiga sentir a pulsação, apalpe a artéria carótida, na lateral do pescoço;"\n"4 - Caso o desmaio persista por mais de 1 ou 2 minutos, aqueça a vítima, chame o médico imediatamente ou leve a pessoa ao hospital."\n"
+    </string>
+
+    <string name="txtDesmaio2">
+        1 - NÃO dê água nem comida ao individuo enquanto ele estiver desmaiado;"\n"2 - NÃO ofereça qualquer produto com cheiro forte para respirar;"\n"3 - NÃO sacuda nem abane a vítima."\n"
+    </string>
+
+    <!-- ***************************** Textos da tela de queimadura ****************** -->
+
+    <string name="txtQueimadura">
+        Trata-se de ferimento provocado pela a ação do calor, frio, eletricidade, substância química sobre o organismo, irradiação solar ou com choque elétrico.
+    </string>
+
+    <string name="txtQueimadura1">
+        São classificadas em:"\n"1 - Queimaduras de 1º grau - vermelhidão (lesões de camadas superficiais da pele);"\n"2 - Queimaduras de 2º grau - vermelhidão e bolhas (lesões de camadas mais profundas da pele);"\n"3 - Queimaduras de 3º grau - destruição de tecidos que podem estar escuros ou esbranquiçados (lesões de todas as camadas da pele, comprometimento dos tecidos mais profundos, órgãos e nervos)."\n"
+    </string>
+
+    <string name="txtQueimadura2">
+        1 - Se a queimadura for pequena, resfrie o local com água fria imediatamente;"\n"2 - Seque o local delicadamente com um pano limpo ou chumaços de gaze;"\n"3 - Cubra o ferimento com compressas de gaze;"\n"4 - Em queimaduras de 2º grau, aplique água fria e cubra a área afetada com compressas de gaze embebida em vaselina estéril;"\n"5 - Mantenha a região queimada mais elevada do que o resto do corpo, para diminuir o inchaço;"\n"6 - Dê bastante líquido para a pessoa ingerir e, se houver muita dor, um analgésico;"\n"7 - Se a queimadura for extensa ou de 3º grau, procure um médico imediatamente.
+    </string>
+
+    <string name="txtQueimadura3">
+        1 - NÃO toque a área afetada;"\n"2 - NÃO fure as bolhas;"\n"3 - NÃO tente retirar pedaços de roupa grudados na pele. Se necessário, recorte em volta da roupa que está sobre a região afetada;"\n"4 - NÃO use manteiga, pomada, creme dental ou qualquer outro produto doméstico sobre a queimadura;"\n"5 - NÃO cubra a queimadura com algodão;"\n"6 - NÃO use gelo ou água gelada para resfriar a região."\n"
+    </string>
+
+
+    <!-- ***************************** Textos da tela de convulsao ****************** -->
+
+    <string name="txtConvulsao">
+        As convulsões são episódios onde o indivíduo perde a consciência com desmaio e inicia um período de tremores por todo o corpo com contração e relaxamento dos músculos.
+    </string>
+
+    <string name="txtConvulsao1">
+        Normalmente depois da convulsão o paciente não se lembra do que aconteceu e pode se encontrar desorientado e por isso é importante ajudar a vítima a se orientar e a perceber o que aconteceu.
+    </string>
+
+    <string name="txtConvulsao2">
+        1 - Dar espaço para a vítima; "\n"2 - Afastar objetos que possam machucar a vítima;"\n"4 - Colocar a vítima de lado ou, se não for possível, colocar a cabeça dela de lado, sem forçar;"\n"5 - Desapertar as roupas da vítima, abrindo camisa e cinto;"\n"6 - Retirar próteses dentárias e outros objetos que possam dificultar a respiração;"\n"7 - Colocar uma proteção entre os dentes, como um pedaço de pano enrolado, para evitar o ranger dos dentes e a mordedura da língua;"\n"8 - Ficar junto da vítima até que ela recupere a consciência;"\n"9 - Em nenhum caso se deve colocar os dedos dentro da boca da vítima para impedir a queda da língua, pois com a contração muscular o indivíduo pode involuntariamente morder a mão do indivíduo;"\n"10 - Após a convulsão, é normal que a vítima sinta sonolência e durma.
+    </string>
+
+
+    <!-- ***************************** Textos da tela de fraturas ****************** -->
+
+    <string name="txtFraturas">
+        É a quebra de um osso causada por uma pancada muito forte, uma queda ou esmagamento.
+    </string>
+
+    <string name="txtFraturas1">
+        1 - Chamar imediatamente o socorro ou levar a vítima para o hospital, CASO ELA POSSA SE LOCOMOVER;"\n"2 - Nunca tentar endireitar uma fratura ou colocar o osso no lugar;"\n"3 - Em caso de fratura do pescoço e coluna não mexer na vítima e dizer para ela não se mexer, mesmo que tenha dor, para diminuir o risco de lesões graves na coluna; "\n"4 - Imobilizar a região fraturada com tábuas, ataduras ou lençóis, como mostram as imagens; "\n"5 - Em caso de fratura exposta, em que o osso perfura a pele, cobrir o ferimento, de preferência com gaze esterilizada ou um pano limpo; "\n"6 - Se houver um sangramento muito intenso, fazer compressão na região fraturada com panos limpos; "\n"7 - Não dê qualquer alimento ao ferido, nem mesmo água.
+    </string>
+
+    <!-- ***************************** Textos da tela de Infarto ****************** -->
+    <string name="txtInfarto">
+        O enfarte ou ataque cardíaco é o entupimento de uma artéria, impedindo o fluxo sanguíneo para uma área do coração, lesando-a. Ele pode ser fatal, por isso necessita de ajuda médica imediata.
+    </string>
+
+    <string name="txtIn">Primeiras providências </string>
+
+    <string name="txtInfarto1">
+        1 - Providencie auxílio médico imediato; "\n"2 - Deixe o paciente em posição confortável, mantendo-o calmo, aquecido e com as roupas afrouxadas; "\n"3 - Se houver parada cardiorrespiratória, aplique a ressuscitação:  "\n"3.1 - Com a pessoa no chão, coloque uma mão sobre a outra e localize a extremidade inferior do osso vertical que está no centro do peito (osso esterno);"\n"3.2 - Ao mesmo tempo, uma outra pessoa deve aplicar respiração boca-a-boca, firmando a cabeça da pessoa e fechando as narinas com o indicador e o polegar, mantendo o queixo levantado para esticar o pescoço;"\n"3.3 - Enquanto o ajudante enche os pulmões pressione o peito a intervalos curtos de tempo, até que o coração volte a bater.
+    </string>
+
+    <string name="txtInfarto2">
+        Se você estiver sozinho, faça dois sopros para cada quinze pressões no coração; se houver alguém ajudando-o, faça um sopro para cada cinco pressões.
+    </string>
+
+    <string name="txtI4">CUIDADO!</string>
+
+    <string name="txtInfarto3">
+        1 - NÃO dê nada à vítima para comer, beber ou cheirar, na intenção de reanimá-la; "\n"2 - Só aplique os procedimentos que se seguem se tiver certeza de que o coração não esta batendo.
+    </string>
+
+</resources>

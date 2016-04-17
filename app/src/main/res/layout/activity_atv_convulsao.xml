@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView2"
+    style="@style/scroll" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:background="@android:color/background_light"
+        android:id="@+id/divTopo">
+
+        <TextView
+            android:id="@+id/lblTitulo"
+            style="@style/tituloTopo"
+            android:text="@string/btn_03" />
+
+
+        <TextView
+            android:id="@+id/lblConteudo1"
+            android:layout_below="@id/lblTitulo"
+            style="@style/definicao"
+            android:text="@string/txt_conteudo_01" />
+
+        <TextView
+            android:id="@+id/lblConteudo2"
+            android:layout_below="@id/lblConteudo1"
+            style="@style/conteudo"
+            android:text="@string/txtConvulsao" />
+
+        <TextView
+            android:id="@+id/lblConteudo3"
+            android:layout_below="@id/lblConteudo2"
+            style="@style/definicao"
+            android:text="@string/txt_conteudo_02" />
+
+        <TextView
+            android:id="@+id/lblConteudo4"
+            android:layout_below="@id/lblConteudo3"
+            style="@style/conteudo"
+            android:text="@string/txtConvulsao2" />
+
+    </RelativeLayout>
+
+</ScrollView>
+
+
+
